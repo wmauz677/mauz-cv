@@ -10,14 +10,12 @@
 [![MIT License][license-shield]][license-url]
 ![Language][language-shield]
 
-
-
 <!-- PROJECT LOGO -->
 
 <br />
 <p align="center">
   <a href="https://wmauz677.github.io/East-Meets-Weast/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/Readme/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">East Meets Weast</h3>
@@ -188,4 +186,4 @@ Deployment
 [status-link]: https://wmauz677.github.io/personalWeb/
 [license-shield]: https://img.shields.io/github/license/wmauz677/personalWeb?color=red&style=for-the-badge
 [license-url]: https://github.com/wmauz677/personalWeb/blob/gh-pages/LICENSE
-[project-screenshot]: images/project-screenshot.png
+[project-screenshot]: assets/Readme/project-screenshot.png
