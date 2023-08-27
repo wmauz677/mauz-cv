@@ -6,35 +6,11 @@
 [![Issues][issues-shield]][issues-url] -->
 [comment]: <> (Project Shields)
 
-[![Status][status-shield]][status-link]
-[![MIT License][license-shield]][license-url]
-![Language][language-shield]
+[![Website Status][status-shield]][status-link]
 
 <!-- PROJECT LOGO -->
 
 <br />
-<p align="center">
-  <a href="https://wmauz677.github.io/East-Meets-Weast/">
-    <img src="assets/Readme/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">East Meets Weast</h3>
-
-  <p align="center">
-    <!--     A comprehensive web portfolio -->
-    <!-- <br />
-    <a href="https://github.com"><strong>Explore the docs »<_strong><_a>
-    <br /> -->
-    <!-- <br />
-    <a href="https://github.com">View Demo</a>
-    ·
-    <a href="https://github.com">Report Bug</a>
-    ·
-    <a href="https://github.com">Request Feature</a> -->
-  </p>
-</p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -69,16 +45,15 @@
 
 ![Project Screenshot][project-screenshot]
 
-I created this blog to document my time spent in Taiwan during my engineering assignment with Taiwan Semiconductor Manufacturing Company
+This is my professional Curriculum Vitae.
 
 ### Built With
 
-Text Editors
+Text Editor
 * [Atom](https://atom.io)
-* [Bear](https://bear.app)
 
 Website Template
-* [Jekyll](https://jekyllrb.com)
+* [HTML5 UP](https://html5up.net/paradigm-shift)
 
 Deployment
 * [GitHub Pages](https://pages.github.com)
@@ -153,8 +128,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 <!-- ## Contact
 
-Weston Mauz - [@your_twitter](https://twitter.com/your_username) - email@email.com -->
-
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -162,28 +135,15 @@ Weston Mauz - [@your_twitter](https://twitter.com/your_username) - email@email.c
 Licensing
 * [License](https://opensource.org/licenses/MIT)
 
-3rd Party Software
-* [Font Awesome](https://fontawesome.com)
+<!-- 3rd Party Software -->
 
 Templates
-* [Jekyll](https://jekyllrb.com)
 * [IMG Shields](https://shields.io)
 * [README Template](https://github.com/othneildrew/Best-README-Template)
-
-Text Editors
-* [Atom](https://atom.io)
-* [Bear](https://bear.app)
-
-Deployment
-* [GitHub Pages](https://pages.github.com)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[language-shield]: https://img.shields.io/github/languages/top/wmauz677/personalWeb?style=for-the-badge
-[status-shield]: https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwmauz677.github.io%2FEast-Meets-Weast%2F
-[status-link]: https://wmauz677.github.io/personalWeb/
-[license-shield]: https://img.shields.io/github/license/wmauz677/personalWeb?color=red&style=for-the-badge
-[license-url]: https://github.com/wmauz677/personalWeb/blob/gh-pages/LICENSE
-[project-screenshot]: assets/Readme/project-screenshot.png
+[status-shield]: https://img.shields.io/website?url=https%3A%2F%2Fwmauz677.github.io%2Fmauz-cv%2F
+[project-screenshot]: assets/images/Screenshots/website.png
