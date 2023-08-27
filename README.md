@@ -146,4 +146,5 @@ Templates
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [status-shield]: https://img.shields.io/website?url=https%3A%2F%2Fwmauz677.github.io%2Fmauz-cv%2F
+[status-link]: https://wmauz677.github.io/mauz-cv/
 [project-screenshot]: assets/images/Screenshots/website.png
